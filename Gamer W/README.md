@@ -1,4 +1,4 @@
-#Gamer W
+# Gamer W
 
 ## Solusi
 1.  Untuk menyelesaikan soal ini, diperlukan chrome extension Cetus. Cetus dimanfaatkan untuk memanipulasi game tersebut.
