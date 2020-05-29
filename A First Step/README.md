@@ -1,9 +1,9 @@
-#A First Step
+# A First Step
 
-##Solusi
+## Solusi
 Flag sudah terdapat pada soal.
 
-##Flag
+## Flag
 ```
 tjctf{so0p3r_d0oper_5ecr3t}
 ```
