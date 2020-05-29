@@ -1,1 +1,6 @@
 # TJCTF20
+
+Faza Murtadho
+05311840000034
+
+Write-Up TJCTF
