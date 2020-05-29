@@ -1,6 +1,6 @@
-#Censorship
+# Censorship
 
-##Solusi
+## Solusi
 1. Jika kita menjalakan nc p1.tjctf.org 8003 akan keluar sebuah pertanyaan dan seberapa cepat menjawab akan keluar tcjtf{[CENCORED]}
 2. Karena itu harus menjalankan kode censorship.py agar dapat dibaca
 3. Pertama dengan membuka nc p1.tjctf.org 8003 dengan r = remote("p1.tjctf.org", 8003)
